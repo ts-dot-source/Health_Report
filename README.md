@@ -80,9 +80,9 @@ Collaborating with healthcare providers for preventive care programs.
 
 🛠️ Tech Stack
 
->Javascript,HTML
+Javascript,HTML
 
->ChatGPT for
+ChatGPT for
 
 
 📂 Repo Structure
